@@ -1,4 +1,4 @@
-# Notes from Git Practice (Conflicting Version)
+# Notes from Git Practice (test connflict)
 
 - I learned about repositories
 - I learned about commits
