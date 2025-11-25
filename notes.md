@@ -1,4 +1,4 @@
-# Notes from Git Practice
+# Notes from Git Practice (Main Version)
 
 - I learned about repositories
 - I learned about commits
